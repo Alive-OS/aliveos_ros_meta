@@ -1,0 +1,4 @@
+- git:
+    local-name: aliveos_msgs
+    uri: https://github.com/an-dr/aliveos_msgs
+    version: b36ea71d624fc0d9d5b9c0def9a24de3a2e6da88
