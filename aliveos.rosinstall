@@ -1,0 +1,28 @@
+- git:
+    local-name: aliveos_app
+    uri: https://github.com/an-dr/aliveos_app
+    version: 0.1.0
+- git:
+    local-name: aliveos_demo
+    uri: https://github.com/an-dr/aliveos_demo
+    version: 0.1.0
+- git:
+    local-name: aliveos_hw
+    uri: https://github.com/an-dr/aliveos_hw
+    version: 0.1.0
+- git:
+    local-name: aliveos_launch
+    uri: https://github.com/an-dr/aliveos_launch
+    version: 0.1.0
+- git:
+    local-name: aliveos_middle
+    uri: https://github.com/an-dr/aliveos_middle
+    version: 0.1.0
+- git:
+    local-name: aliveos_msgs
+    uri: https://github.com/an-dr/aliveos_msgs
+    version: 0.1.0
+- git:
+    local-name: aliveos_py
+    uri: https://github.com/an-dr/aliveos_py
+    version: 0.1.0
