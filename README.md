@@ -1,6 +1,6 @@
-# Alive OS
+# Alive OS ROS Meta-package
 
-<img src="assets/logo.svg" width="400">
+<img src="https://raw.githubusercontent.com/an-dr/aliveos/main/assets/logo.svg" width="400">
 
 OS implementing the behavior of a living being in electronics.
 
