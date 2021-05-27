@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../aliveos_app"
+		},
+		{
+			"path": "../aliveos_demo"
+		},
+		{
+			"path": "../aliveos_hw"
+		},
+		{
+			"path": "../aliveos_launch"
+		},
+		{
+			"path": "../aliveos_middle"
+		},
+		{
+			"path": "../aliveos_msgs"
+		},
+		{
+			"path": "../aliveos_py"
+		}
+	],
+    "settings": {
+        "python.autoComplete.extraPaths": [
+            "/opt/ros/noetic/lib/python3.9/site-packages",
+            "${workspaceFolder}../../devel/lib/python3.9/site-packages",
+            "${workspaceFolder}/../aliveos_py/src"
+        ],
+        "python.analysis.extraPaths": [
+            "/opt/ros/noetic/lib/python3.9/site-packages",
+            "${workspaceFolder}../../devel/lib/python3.9/site-packages",
+            "${workspaceFolder}/../aliveos_py/src"
+        ]
+    }
+}
